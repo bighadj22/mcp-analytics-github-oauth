@@ -15,7 +15,7 @@
     "agents": "^0.0.95",
     "hono": "^4.8.2",
     "just-pick": "^4.2.0",
-    "mcp-analytics": "^1.0.25",
+    "mcp-analytics": "^1.0.36",
     "octokit": "^5.0.3",
     "workers-mcp": "^0.0.13",
     "zod": "^3.25.67"
